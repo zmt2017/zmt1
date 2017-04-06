@@ -16,6 +16,9 @@ public class User implements Serializable{
 	}
 	
 	
+	
+	
+	
 	public void setId(int id) {
 		this.id = id;
 	}
